@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harrisonhamric
+- 👀 I’m interested in cloud development, secure software, mobile and web application development. 
+- 🌱 I’m currently learning python, angular, node js
+- 💞️ I’m looking to collaborate on node, web and mobile applications
+- 📫 email me at: harrisonhamric.development@gmail.com
